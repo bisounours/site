@@ -1,0 +1,731 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"text-al",
+				"text-align"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"rit",
+				"right"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"h",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "template/fr/index.html",
+			"settings":
+			{
+				"buffer_size": 950,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template/composant/head.html",
+			"settings":
+			{
+				"buffer_size": 921,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template/composant/foot.html",
+			"settings":
+			{
+				"buffer_size": 337,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "template/fr/cv.html",
+			"settings":
+			{
+				"buffer_size": 5649,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/commun.css",
+			"settings":
+			{
+				"buffer_size": 3352,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/cv.css",
+			"settings":
+			{
+				"buffer_size": 1220,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template/en/cv.html",
+			"settings":
+			{
+				"buffer_size": 5114,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/cv.js",
+			"settings":
+			{
+				"buffer_size": 1231,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/projet.css",
+			"settings":
+			{
+				"buffer_size": 740,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/menu.css",
+			"settings":
+			{
+				"buffer_size": 526,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/loic/workspace/Cariatides/ImportAgents/Sources/com/symaris/importagent/app/Application.java",
+			"settings":
+			{
+				"buffer_size": 35059,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/index.css",
+			"settings":
+			{
+				"buffer_size": 86,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/foot.js",
+			"settings":
+			{
+				"buffer_size": 2170,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/index.html",
+			"settings":
+			{
+				"buffer_size": 2571,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/loic/Downloads/CreateJobPresence.sql",
+		"/Applications/MAMP/htdocs/walot/index.php",
+		"/Applications/MAMP/htdocs/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "template/fr/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 950,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "template/composant/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								632,
+								636
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "template/composant/foot.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "template/fr/cv.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2999,
+								2999
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 995.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/commun.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								755,
+								755
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "css/cv.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "template/en/cv.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2456,
+								2456
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 272.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "js/cv.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1220,
+								1220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "css/projet.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "css/menu.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 526,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								348,
+								348
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/loic/workspace/Cariatides/ImportAgents/Sources/com/symaris/importagent/app/Application.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "css/index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 86,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "js/foot.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								454,
+								454
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Applications/MAMP/htdocs/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								402,
+								491
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "walot.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

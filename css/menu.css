@@ -1,0 +1,43 @@
+#menu{
+	background: #5D392D;
+	color:white;
+	margin: auto;
+	font-family: geo;
+}
+
+#menu ul{
+	padding: 0px;
+	margin: 0px;
+}
+
+#menu ul li{
+	list-style: none; 
+	padding: 10px;
+	font-size: 25px;
+	display: inline-block;
+	border-right:1px solid white; 
+}
+
+#menu ul li:hover{
+	cursor: pointer;
+	color:orange;
+	transition:1s;
+}
+
+#menu a{
+	border-bottom: 0px;
+}
+
+#lang{
+	position: absolute;
+	right: 21%;
+	font-family: levi, Arial;
+	color: #5D392D;
+	font-size: 25px;
+}
+
+#lang span:hover{
+	cursor: pointer;
+	color:orange;
+	transition:1s;
+}

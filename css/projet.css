@@ -1,0 +1,55 @@
+#menu_projet{
+	border-right: 1px solid #5D392D;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 20%;
+	text-indent: 0px;
+	left: 0px;
+}
+
+#menu_projet ul{
+	padding: 0px;
+	margin: 0px;
+}
+
+#menu_projet ul li{
+	list-style: none;
+	padding: 10px;
+	color: #5D392D;
+	font-family: geo;
+	font-size: 30px;
+	text-align: right;
+	text-indent: 0px;
+}
+
+#menu_projet ul li:hover{
+	cursor: pointer;
+	color:orange;
+	transition:1s;
+}
+
+.description{
+	display: none;
+	width: 75%;
+}
+
+.description table{
+	width: 100%;
+}
+
+.description table tr td{
+	vertical-align: top;
+	padding: 10px;
+}
+
+.description table tr td{
+	text-align: left;
+	text-indent: 0px;
+}
+
+.description table tr td:first-child{
+	text-align: right;
+	width: 20%;
+	font-weight: bold;
+	color:orange;
+}

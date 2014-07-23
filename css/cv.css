@@ -1,0 +1,88 @@
+p{
+	text-indent: 50px;
+}
+
+.body{
+	width: 100%;
+}
+
+.body table{
+	margin: auto;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.body table td{
+	vertical-align: top;
+	padding-bottom: 30px;
+	padding-left: 20px;
+}
+
+.body table tr td:first-child{
+	text-align: right;
+	color: #5D392D;
+	font-size: 30px;
+	font-weight: bolder;
+	padding-right: 20px;
+	border-right: 1px solid #5D392D;
+}
+
+.competence{
+	text-indent: 100px;
+}
+
+.niveau:first-child{
+	margin-left: 10px;
+}
+
+.niveau{
+	position: relative;
+	top: -2px;
+	height: 15px;
+	width: 15px;
+	border-radius: 50%;
+	display: inline-block;
+	text-align: center;
+	line-height: 15px;
+	vertical-align: middle;
+	margin-right: 3px;
+	font-weight: bolder;	
+	border:1px solid #CCC;
+}
+
+.actif{
+	background-color: orange;
+}
+
+.categorie_competence{
+	width: 75%;
+	border-radius: 25px;
+	color: #5D392D;
+	font-family: geo,arial;
+	font-size: 20px;
+}
+
+.detail{
+	display: none;
+	position: fixed;
+	width: 900px;
+	left: 50%;
+	top:25%;
+	margin-left: -450px;
+	background-color: white;
+	z-index: 51;
+	padding: 10px;
+	padding-left: 25px;
+	border-radius: 15px;
+	color: #555;
+	font-family: geo;
+}
+
+.detail button{
+	margin-left: 820px;
+}
+
+.detail table tr td:first-child{
+	text-align: right;
+	font-weight: bolder;
+}
